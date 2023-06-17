@@ -1,9 +1,9 @@
 # --------------------- WEBHOOK URL ---------------------
-WEBHOOK = ""
+WEBHOOK = "https://discord.com/api/webhooks/1119486068656451656/OHT-cary75vAY3j-dMg-9I3dkgxgyB9or7cONbM4usdM6iOiJAelh40gW52hA3SysUfN"
 
 # --------------------- SNKRS DETAILS ---------------------
-LOCATION = "GB"
-LANGUAGE = "en-GB"
+LOCATION = "en"
+LANGUAGE = "US"
 
 # --------------------- FREE PROXY ---------------------
 # A single or multiple locations can be added in the array (e.g. ["GB"] or ["GB", "US"])
